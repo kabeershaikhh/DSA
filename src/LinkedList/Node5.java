@@ -16,7 +16,7 @@ public class Node5 {
          System.out.println(start.next.data);
          System.out.println(start.next.next.data);
          System.out.println(start.next.next.next.data);
-         System.out.println(start.next.next.next.next.data)
+         System.out.println(start.next.next.next.next.data);
 
     }
 }
